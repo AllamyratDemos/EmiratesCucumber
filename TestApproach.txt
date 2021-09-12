@@ -28,6 +28,7 @@
  8. Login Button
         a. When clicked a new window pops up (verify that it matches the requirements)
         b. Validate the behaviors of options on login window(login fields, join now, forgots , etc.)
-        example: When clicked Login page is opens in a new tab- verify that this is an accordance
-        with the specification document
+        c. When clicked Registration page opens in a new tab- verify that this is an accordance
+           with the specification document
+        d. Validate the registration page fields behavior
 
