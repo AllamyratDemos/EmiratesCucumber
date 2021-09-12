@@ -1,0 +1,33 @@
+ Primary behaviors I would validate on Emirates book a flight pages are
+ 1. Page Title- to make sure user is on correct page
+ 2. Emirates logo visibility and if it is clickable (serves as navigation to home page and brand value)
+
+ Secondary behaviors to validate
+ 3. Global button -(Does its content match with the requirements document)
+ 4. Where and when part
+        a. return - user should be able to choose dates for both ways (dates flexible checkbox should be enabled)
+        b. one way- system should not display return date option(dates flexible checkbox should be enabled)
+        c. Advanced search- system should provide option to chain multiple cities. Add another city option should appear
+        d. By default Economy Class should be selected
+        e. Autofill behavior in departures and arrivals
+        f. Past dates on the calendar should be disabled
+ 5. Passengers part
+        a. Validate passengers selections in accordance to the requirements specified (the question mark)
+           example:
+          i. total passenger to book(test how Adults and children number behave with respect to total number of 9)
+          ii. behavior of infants selection availability with accordance to adults number
+          iii. Age validations for Adults, Children and Infants
+ 6. Promotional offers
+        can user enter Promotional code
+ 7. Functionality of the Search Button
+          i. in case there are missing fields error regarding required fields should be displayed
+          ii. in case required fields are all filled up Search button should lead to SearchResult page
+
+ Tertiary behaviors to validate(login is not mandatory to search flights)
+
+ 8. Login Button
+        a. When clicked a new window pops up (verify that it matches the requirements)
+        b. Validate the behaviors of options on login window(login fields, join now, forgots , etc.)
+        example: When clicked Login page is opens in a new tab- verify that this is an accordance
+        with the specification document
+
